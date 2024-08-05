@@ -1,4 +1,4 @@
-const apiKey = 'f287bbfb10b345f8bad113654240508'; // Your new WeatherAPI key
+const apiKey = 'ee2827fd459749e9b63135359240508'; // Your new WeatherAPI key
 const weatherInfo = document.getElementById('weather-info');
 const loadingIndicator = document.getElementById('loading');
 const historyList = document.getElementById('history-list');
